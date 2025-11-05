@@ -113,7 +113,11 @@ const Navbar = () => {
                 {/* user auth */}
                 <div className="user_auth ">
                   <p className="text-[16px] uppercase text-white font-light">welcome</p>
-                  <Link to='/log-in' className="text-[16px] uppercase text-white font-bold"> <h1> log in / Register</h1> </Link>
+                 <div className="flex items-center gap-1">
+                    <Link to='/log-in' className="text-[16px] uppercase text-white font-bold"> <h1> log in</h1> </Link> <span className="text-[16px] text-white font-bold">/</span>
+                  <Link to='/register' className="text-[16px] uppercase text-white font-bold"> <h1>  Register</h1> </Link>
+                 </div>
+
                 </div>
               </div>
               {/* user cart */}
