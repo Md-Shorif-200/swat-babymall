@@ -1,17 +1,17 @@
 import React from "react";
 
-import about_banner_img from "../../../public/about-section/div.about-banner.png";
-import showreel_img from "../../../public/about-section/about2.png.png";
-import mission_vission_img from "../../../public/about-section/about3.png.png";
-import freeShiping_img from "../../../public/about-section/about-shiping.png";
-import star_icon from "../../../public/about-section/start_icon.png";
+import about_banner_img from "../../../public/about-section//div.about-banner-min.png";
+import showreel_img from "../../../public/about-section/about2.png-min.png";
+import mission_vission_img from "../../../public/about-section/about3.png-min.png";
+import freeShiping_img from "../../../public/about-section/about-shiping-min.png";
+import star_icon from "../../../public/about-section/start_icon-min.png";
 
 // leaders image
-import img_1 from "../../../public/about-section/Link → mem1.png.png";
-import img_2 from "../../../public/about-section/Link → mem2.png.png";
-import img_3 from "../../../public/about-section/Link → mem3.png.png";
-import img_4 from "../../../public/about-section/Link → mem4.png.png";
-import img_5 from "../../../public/about-section/Link → mem5.png.png";
+import img_1 from "../../../public/about-section/men-1.png";
+import img_2 from "../../../public/about-section/men-2.png";
+import img_3 from "../../../public/about-section/men-3.png";
+import img_4 from "../../../public/about-section/men-4.png";
+import img_5 from "../../../public/about-section/men-5.png";
 import { Link } from "react-router-dom";
 
 // company timeline

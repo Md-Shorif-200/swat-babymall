@@ -2,11 +2,11 @@ import React from 'react';
 import { FaRegHeart } from "react-icons/fa";
 
 // products image
-import img_1 from '../../../public/recomended-products/img-1 (2).png'
-import img_2 from '../../../public/recomended-products/img-2.png'
-import img_3 from '../../../public/recomended-products/img-3.png'
-import img_4 from '../../../public/recomended-products/img-4.png'
-import img_5 from '../../../public/recomended-products/img-5.png'
+import img_1 from '../../../public/recomended-products/img-2.png'
+import img_2 from '../../../public/recomended-products/img-3.png'
+import img_3 from '../../../public/recomended-products/img-4.png'
+import img_4 from '../../../public/recomended-products/img-5.png'
+import img_5 from '../../../public/recomended-products/img-6.png'
 import { FaHeart } from 'react-icons/fa';
 
 const RecomendedCategories = [

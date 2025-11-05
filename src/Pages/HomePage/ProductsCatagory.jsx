@@ -1,17 +1,17 @@
 import React from "react";
 
-import logo_1 from "../../../public/producs_category/cat1.png.png";
-import logo_2 from "../../../public/producs_category/cat2.png.png";
-import logo_3 from "../../../public/producs_category/cat3.png.png";
-import logo_4 from "../../../public/producs_category/cat4.png.png";
-import logo_5 from "../../../public/producs_category/cat5.png.png";
-import logo_6 from "../../../public/producs_category/cat6.png.png";
-import logo_7 from "../../../public/producs_category/cat7.png.png";
-import logo_8 from "../../../public/producs_category/cat8.png.png";
+import logo_1 from "../../../public/producs_category/cat-1.png";
+import logo_2 from "../../../public/producs_category/cat-2.png";
+import logo_3 from "../../../public/producs_category/cat-3.png";
+import logo_4 from "../../../public/producs_category/cat-4.png";
+import logo_5 from "../../../public/producs_category/cat-5.png";
+import logo_6 from "../../../public/producs_category/cat-6.png";
+import logo_7 from "../../../public/producs_category/cat-7.png";
+import logo_8 from "../../../public/producs_category/cat-8.png";
 
 // products card image
-import card_img_1 from "../../../public/producs_category/banner1.png.png";
-import card_img_2 from "../../../public/producs_category/banner2.png.png";
+import card_img_1 from "../../../public/producs_category/banner1.png";
+import card_img_2 from "../../../public/producs_category/banner2.png";
 import { Link } from "react-router-dom";
 
 const catagories = [

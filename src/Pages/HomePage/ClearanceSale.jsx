@@ -5,7 +5,7 @@ import img_1 from "../../../public/clearance-sale/img-1.png";
 import img_2 from "../../../public/clearance-sale/img-2.png";
 import img_3 from "../../../public/clearance-sale/img-3.png";
 import img_4 from "../../../public/clearance-sale/img-4.png";
-import img_5 from "../../../public/clearance-sale/img-5.png";
+import img_5 from "../../../public/clearance-sale/img-4 (7).png";
 import { FaRegHeart } from "react-icons/fa";
 
 const products = [
